@@ -17,7 +17,7 @@ public class DemoProjectForJenkinsDockerApplication {
 	}
 
 	public static void main(String[] args) {
-		logger.info("Application executed...");
+		logger.info("Application executed...   ");
 		SpringApplication.run(DemoProjectForJenkinsDockerApplication.class, args);
 	}
 
