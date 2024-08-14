@@ -13,7 +13,7 @@ public class DemoProjectForJenkinsDockerApplication {
 
 	@PostConstruct
 	public void init(){
-		logger.info("Application started...");
+		logger.info("Application started...  ");
 	}
 
 	public static void main(String[] args) {
